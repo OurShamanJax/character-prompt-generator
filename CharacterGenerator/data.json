@@ -1,0 +1,19 @@
+[
+    {
+        "id": "db399a9d-ad02-4189-adad-1bdd040356eb",
+        "gender": "Female",
+        "name": "Alexandra \"Alex\" Chen",
+        "age": 32,
+        "traits": [
+            "perfectionistic",
+            "critical of others",
+            "anxious about failure",
+            "workaholic"
+        ],
+        "backstory": "Grew up in a hyper-competitive household where her parents demanded academic and professional excellence. Her older brother was a model student, leading to constant comparison; she felt pressured to outperform him at all costs. This environment fostered a need for control through perfectionism and criticality toward others (to maintain her own standards) while developing anxiety about any perceived failure.",
+        "goals": "To learn to accept imperfection in both herself and others, reduce workaholism by setting boundaries, and build healthier relationships based on genuine connection rather than performance metrics.",
+        "needs": "A need for structure and control in her life; a deep-seated need for validation through consistent achievement; a desire for emotional stability despite anxiety about failure.",
+        "emotions": "A mix of stress from overwhelming work demands, guilt over being overly critical to colleagues, and a quiet fear that she'll never measure up to her own (or others') expectations.",
+        "reasoning": {}
+    }
+]
