@@ -58,3 +58,6 @@ A local-first tool for creating and managing realistic, "living" video game char
 1. Clone the repository:
    ```bash
    git clone https://github.com/OurShamanJax/character-prompt-generator.git
+
+
+  Launch CMD, cd to Character Generator\CharacterGenerator, then run "python main.py"
